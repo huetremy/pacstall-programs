@@ -1,0 +1,9 @@
+name="obsidian-deb"
+pkgname="obsidian"
+description="A a powerful and extensible knowledge base that works on top of your local folder of plain text files"
+maintainer="Rémy Huet <remy.huet@hds.utc.fr>"
+repology=("project: obsidian")
+version="1.1.9"
+url="https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.9/obsidian_1.1.9_amd64.deb"
+hash="2b39a582456357d536cfd4d281573ef744ccd1d3a5aadf486c13ebfbb3853451"
+breaks="obsidian obsidian-app obsidian-git obsidian-bin"
